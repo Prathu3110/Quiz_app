@@ -15,7 +15,7 @@ This app renders questions one at a time, allows the user to select an answer, a
 ![Screenshot 3](screenshots/3.jpg)
 ![Screenshot 4](screenshots/4.jpg)
 ![Screenshot 5](screenshots/5.jpg)
-![Screenshot 6](screenshots/6.jpg)
+
 
 ## Built With
 
@@ -27,22 +27,23 @@ This app renders questions one at a time, allows the user to select an answer, a
 ## Run Locally
 
 1. Clone the repo:
+```bash
 git clone https://github.com/Prathu3110/Quiz_app.git
+```
+3. Navigate into the folder:
 
-2. Navigate into the folder:
-
-
+```bash
 cd Quiz_app
-
+```
 3. Install dependencies:
 
-
+```bash
 npm install
-
+```
 4. Start the development server:
 
-
+```bash
 npm run dev
-
+```
 
 
